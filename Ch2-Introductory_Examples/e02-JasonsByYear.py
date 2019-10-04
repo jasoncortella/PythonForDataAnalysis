@@ -1,4 +1,4 @@
-# Basic BabyName analysis - placeholdplaceholdplaceholdplaceholdplacehold
+# Basic BabyName analysis - Plots the number of births per year of a specified name
 
 # Note - block must be copied into ipython --pylab
 
