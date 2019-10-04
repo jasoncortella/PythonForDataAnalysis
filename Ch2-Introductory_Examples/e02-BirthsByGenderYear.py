@@ -1,4 +1,4 @@
-# Basic BabyName analysis
+# Basic BabyName analysis - Plot Births by Year and Gender
 
 # Note - block must be copied into ipython --pylab
 
