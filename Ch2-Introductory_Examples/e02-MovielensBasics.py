@@ -1,4 +1,4 @@
-# Plots the number of data entries per time-zone, based on bitly_usagov.txt data
+# Basic data analysis of the Movielens dataset
 
 # Note - block must be copied into ipython --pylab
 
