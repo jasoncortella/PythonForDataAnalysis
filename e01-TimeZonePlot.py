@@ -1,3 +1,5 @@
+# Plots the number of data entries per time-zone, based on bitly_usagov.txt data
+
 # Note - block must be copied into ipython --pylab
 
 import json
