@@ -4,9 +4,6 @@
 
 import pandas as pd
 
-path = '/Users/Jason/PythonForDataAnalysis/datasets/babynames/yob1880.txt'
-
-
 years = range (1880, 2011)
 pieces = []
 columns = ['name', 'sex', 'births']
